@@ -1,3 +1,4 @@
+```
 ███████  █████  ██████       ██████  ███████ ███    ██ ███████ ██████   █████  ████████  ██████  ██████  
 ██      ██   ██ ██   ██     ██       ██      ████   ██ ██      ██   ██ ██   ██    ██    ██    ██ ██   ██ 
 ███████ ███████ ██   ██     ██   ███ █████   ██ ██  ██ █████   ██████  ███████    ██    ██    ██ ██████  
@@ -18,3 +19,4 @@ here is something you need to know ;
 
 Auto-py is bugged so to make it works I had to put a function then change all paths
 and rename it into the function. As I wrote ; all is in the script.
+```
