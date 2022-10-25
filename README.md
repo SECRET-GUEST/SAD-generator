@@ -18,7 +18,6 @@ You have to download it if you want to make the exe by yourself, here is the lin
 
 https://pypi.org/project/auto-py-to-exe/
 
-`The .exe file is portable btw ; you can move it everywhere you want without shortcut`
 
 All you need to know to make the script work is in sad.py but to help you a little bit
 here is something you need to know ;
