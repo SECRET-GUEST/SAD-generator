@@ -173,7 +173,7 @@ feelings5 = ["love","couple","friend","friends","friendship"]
 
 reality5 = ["cheated", "friendzone", "Karenized", "plane crash", "boat crash", "scammed",  "killed", "raped", "jail", "jail but innocent", "jail but straight",
             "jail innocent & straight", "play fortnite", "robbed","bald", "cancer" ,"AIDS","decease", "empoisoined", "Karen", "Giga chad", "giga chads", "No more sex","knifes in the back"
-            "back full of kunais"]
+            ,"back full of kunais"]
             
 
 
