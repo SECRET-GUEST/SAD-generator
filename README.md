@@ -21,12 +21,6 @@ but also **how to return variable from entry** and similar things like
 But it's obviously keywords s**t , it's just a `dank sad generator` but fun *=)* .
 
 
-![github](https://user-images.githubusercontent.com/92639080/198071947-601d9cdf-8f51-49e5-95bb-407792afa682.jpg)
-
-![qfdqfq](https://user-images.githubusercontent.com/92639080/198072668-c994c2ac-2c46-4535-96b8-405636730c62.jpg)
-
-![qgqdfgqsd](https://user-images.githubusercontent.com/92639080/198072685-6c5f35c7-92a2-49ad-bad5-174abbbfd891.jpg)
-
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
  |  |  |  |  |  | |__/ | |__| |    
@@ -46,5 +40,9 @@ Auto-py is bugged so to make it works I had to put a function then change all pa
 Read the script for more.
 
 
+![github](https://user-images.githubusercontent.com/92639080/198071947-601d9cdf-8f51-49e5-95bb-407792afa682.jpg)
 
+![qfdqfq](https://user-images.githubusercontent.com/92639080/198072668-c994c2ac-2c46-4535-96b8-405636730c62.jpg)
+
+![qgqdfgqsd](https://user-images.githubusercontent.com/92639080/198072685-6c5f35c7-92a2-49ad-bad5-174abbbfd891.jpg)v
 
