@@ -40,11 +40,10 @@ You have to download it if you want to make the exe by yourself, here is the lin
 https://pypi.org/project/auto-py-to-exe/
 
 
-All you need to know to make the script work is in sad.py but to help you a little bit
-here is something you need to know ;
+All you need to know to run the hell is in sad.py, most important part is;
 
-Auto-py is bugged so to make it works I had to put a function then change all paths
-and rename it into the function. As I wrote ; all is in the script.
+Auto-py is bugged so to make it works I had to put a function then change all paths.
+Read the script for more.
 
 
 
