@@ -5,6 +5,27 @@
      ██ ██   ██ ██   ██     ██    ██ ██      ██  ██ ██ ██      ██   ██ ██   ██    ██    ██    ██ ██   ██ 
 ███████ ██   ██ ██████       ██████  ███████ ██   ████ ███████ ██   ██ ██   ██    ██     ██████  ██   ██ 
 ```
+```
+___  ____ ____ ____ ____ _ ___  ___ _ ____ _  _ 
+|  \ |___ [__  |    |__/ | |__]  |  | |  | |\ | 
+|__/ |___ ___] |___ |  \ | |     |  | |__| | \| 
+                                                
+```
+
+It's a very basic **python form** who could be helpful to start with **python** and
+**tkinter**. 
+Inside you can find how to make you own and customizable **pop up window** (**icon**, ...)
+but also **how to return variable from entry** and similar things like
+**how to make a class**, **customize fonts in tkinter**, all the very basic.
+
+But I obviously wrote that for keywords, it's just a 	`dank sad generator` *:3* .
+
+
+![github](https://user-images.githubusercontent.com/92639080/198071947-601d9cdf-8f51-49e5-95bb-407792afa682.jpg)
+
+![qfdqfq](https://user-images.githubusercontent.com/92639080/198072668-c994c2ac-2c46-4535-96b8-405636730c62.jpg)
+
+![qgqdfgqsd](https://user-images.githubusercontent.com/92639080/198072685-6c5f35c7-92a2-49ad-bad5-174abbbfd891.jpg)
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
@@ -25,17 +46,6 @@ here is something you need to know ;
 Auto-py is bugged so to make it works I had to put a function then change all paths
 and rename it into the function. As I wrote ; all is in the script.
 
-```
-___  ____ ____ ____ ____ _ ___  ___ _ ____ _  _ 
-|  \ |___ [__  |    |__/ | |__]  |  | |  | |\ | 
-|__/ |___ ___] |___ |  \ | |     |  | |__| | \| 
-                                                
-```
 
-It's a very basic **python form** who could be helpful to start with **python** and
-**tkinter**. 
-Inside you can find how to make you own and customizable **pop up window** (**icon**, ...)
-but also **how to return variable from entry** and similar things like
-**how to make a class**, **customize fonts in tkinter**, all the very basic.
 
-But I obviously wrote that for keywords, it's just a 	`dank sad generator` *:3* .
+
