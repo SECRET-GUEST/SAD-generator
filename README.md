@@ -18,7 +18,7 @@ Inside you can find how to make you own and customizable **pop up window** (**ic
 but also **how to return variable from entry** and similar things like
 **how to make a class**, **customize fonts in tkinter**, all the very basic.
 
-But I obviously wrote that for keywords, it's just a 	`dank sad generator` *:3* .
+But it's obviously keywords s**t , it's just a `dank sad generator` but fun *=)* .
 
 
 ![github](https://user-images.githubusercontent.com/92639080/198071947-601d9cdf-8f51-49e5-95bb-407792afa682.jpg)
