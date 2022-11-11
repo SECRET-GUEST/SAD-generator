@@ -19,6 +19,12 @@ but also **how to return variable from entry** and similar things like
 **how to make a class**, **customize fonts in tkinter**, all the very basic.
 
 But it's obviously keywords s**t , it's just a `dank sad generator` but fun *=)* .
+The only question you may ask is ;
+
+## WHY THE .EXE VERSION IS A MALWARE FOR MOST OF ANTIVIRUS ?
+
+This is simply because it's a non-signed software because it
+has not for purpose to be sale.
 
 
 ```
@@ -29,7 +35,7 @@ ___ _  _ ___ ____ ____ _ ____ _
 ```
 
 This script has been written in **python** to be compiled with **auto-py-to-exe**.
-You have to download it if you want to make the exe by yourself, here is the link ;
+If you want to make the exe by yourself with auto exe, here is the link ;
 
 https://pypi.org/project/auto-py-to-exe/
 
