@@ -49,5 +49,4 @@ Read the script for more.
 
 ![qfdqfq](https://user-images.githubusercontent.com/92639080/198072668-c994c2ac-2c46-4535-96b8-405636730c62.jpg)
 
-![qgqdfgqsd](https://user-images.githubusercontent.com/92639080/198072685-6c5f35c7-92a2-49ad-bad5-174abbbfd891.jpg)v
-
+![qgqdfgqsd](https://user-images.githubusercontent.com/92639080/198072685-6c5f35c7-92a2-49ad-bad5-174abbbfd891.jpg)
