@@ -26,6 +26,7 @@ But it's obviously keywords s**t , it's just a `dank sad generator` but fun *=)*
 It's a non-signed software, free. You have the script, you can compile it
 by yourself if you want ;
 
+[![Download SAD-generator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/sad-generator/files/latest/download)
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
