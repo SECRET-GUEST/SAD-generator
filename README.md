@@ -1,4 +1,4 @@
-Python version : 3.11
+Python version : 3.11 [![Download SAD-generator](https://img.shields.io/sourceforge/dt/sad-generator.svg)](https://sourceforge.net/projects/sad-generator/files/latest/download)
 ```
 ███████  █████  ██████       ██████  ███████ ███    ██ ███████ ██████   █████  ████████  ██████  ██████  
 ██      ██   ██ ██   ██     ██       ██      ████   ██ ██      ██   ██ ██   ██    ██    ██    ██ ██   ██ 
