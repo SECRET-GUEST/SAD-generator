@@ -132,7 +132,7 @@ reality = ["death", ":'(", "decease",  "empoisoined", "choke", "demise", "extinc
             "Karen", "Giga chad","giga chads","No sex","Alien's cows","Karenized", "science experimentation", "nuclear bomb", 
             "toxic gas", "starvation", "cannibalism", "car crash", "plane crash",
             "boat crash", "scammed",  "killed", "raped", "jail", "jail but innocent", "jail but straight", 
-            "jail innocent & straight", "victimized", "murdered", "play fortnite", "robbed", "killed during robbery", 
+            "victimized", "murdered", "play fortnite", "robbed", "killed during robbery", 
             "be alive", "kill a familly with car", "killed by alcoholic", "killed by junky", "be a junky", "4chaned", 
             "tsunami", "hurricane",  "hurrycane of lost bullets", "Necrosis", "visit backrooms", 
             "SCP's collateral damage", "Collateral damage", "Burn", "Psycho-neighbors"]
@@ -172,8 +172,8 @@ reality4 = ["can't breath", "Burn", "alien invasion", "scammed",  "killed", "rap
 feelings5 = ["love","couple","friend","friends","friendship"]
 
 reality5 = ["cheated", "friendzone", "Karenized", "plane crash", "boat crash", "scammed",  "killed", "raped", "jail", "jail but innocent", "jail but straight",
-            "jail innocent & straight", "play fortnite", "robbed","bald", "cancer" ,"AIDS","decease", "empoisoined", "Karen", "Giga chad", "giga chads", "No more sex","knifes in the back"
-            ,"back full of kunais"]
+            "jail innocent & straight", "play fortnite", "robbed","bald", "cancer" ,"AIDS","decease", "poisoined", "Karen", "Giga chad", "giga chads", "No more sex",
+            "knives in the back"]
             
 
 
