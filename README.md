@@ -35,16 +35,13 @@ ___ _  _ ___ ____ ____ _ ____ _
                                    
 ```
 
-This script has been written in **python** to be compiled with **auto-py-to-exe**.
-If you want to make the exe by yourself with auto exe, here is the link ;
+This program has been written in **python** to be compiled with **auto-py-to-exe**.
+
+If you want to make the executable by yourself with, here is the link for the library ;
 
 https://pypi.org/project/auto-py-to-exe/
 
-
-All you need to know to run the hell is in sad.py, most important part is;
-
-Auto-py is bugged so to make it works I had to put a function then change all paths.
-Read the script for more.
+ⁿᵒᵗᵉ With auto-py method, you will need to change the paths (all details are in the script).
 
 
 ![github](https://user-images.githubusercontent.com/92639080/198071947-601d9cdf-8f51-49e5-95bb-407792afa682.jpg)
