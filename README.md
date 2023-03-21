@@ -33,6 +33,19 @@ by yourself if you want ;
 
 ![qfdqfq](https://user-images.githubusercontent.com/92639080/198072668-c994c2ac-2c46-4535-96b8-405636730c62.jpg)
 
+
+
+
+# :scroll: License
+
+This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
+
+# :question: Support & Questions
+
+If you have any questions or need support, please feel free to open an issue or join my twitter.
+
+
+
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
  |  |  |  |  |  | |__/ | |__| |    
